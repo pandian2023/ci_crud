@@ -6,7 +6,7 @@ local url : http://localhost/ci_crud/
 	'username' => 'root',
 	'password' => '',
 	'database' => 'ci_crud',
-	'dbdriver' => 'mysqli',
+	'dbdriver' => 'mysqli'
  #username : test
  #password : test
 
