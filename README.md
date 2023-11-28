@@ -7,6 +7,8 @@ local url : http://localhost/ci_crud/
 	'password' => '',
 	'database' => 'ci_crud',
 	'dbdriver' => 'mysqli',
+ #username : test
+ #password : test
 
 #cron
 cron url : http://localhost/ci_crud/index.php/CoinCron/update_coins
